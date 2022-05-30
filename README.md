@@ -17,15 +17,8 @@
     * first sub-sub-item
   * second sub-item
 
-Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text](https://github.com/284793295_344016401090488_7539321733615207926_n.jpg)
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/284793295_344016401090488_7539321733615207926_n.jpg
+![cat in case picture][avatar]
+[avatar]: https://avatars.githubusercontent.com/u/"D:\284793295_344016401090488_7539321733615207926_n.jpg" "This is cat in case photo."
 
 library(tidyverse)\
 library(mdsr)\
