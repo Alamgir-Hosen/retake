@@ -20,12 +20,12 @@
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/284793295_344016401090488_7539321733615207926_n.jpg)
 
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://github.com/284793295_344016401090488_7539321733615207926_n.jpg
 
 library(tidyverse)\
 library(mdsr)\
